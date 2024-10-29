@@ -8,7 +8,7 @@ NiiNav addresses these limitations by allowing researchers to approximate brain 
 
 ### Live Demo
 
-Try out [this repository in a live demo](https://neurolabusc.github.io/niinav/)
+Try out [this repository in a live demo](https://niivue.github.io/niinav/)
 
 Using this tool is simple:
 
@@ -28,7 +28,7 @@ Using this tool is simple:
 You can host your own instance locally, allowing you to extend this distribution.
 
 ```
-git clone https://github.com/neurolabusc/niinav
+git clone git@github.com:niivue/niinav.git
 cd niinav
 npm install
 npm run dev
