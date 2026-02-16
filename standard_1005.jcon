@@ -1,0 +1,202 @@
+{
+  "name": "standard_1005",
+  "nodeColormap": "redyell",
+  "nodeMinColor": 0,
+  "nodeMaxColor": 3,
+  "nodeScale": 3,
+  "legendLineThickness": 0,
+  "nodes": [
+    {
+      "name": "C5h",
+      "x": -75.2941,
+      "y": -12.6397,
+      "z": 47.904,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "CCP5h",
+      "x": -76.4071,
+      "y": -29.7307,
+      "z": 49.217,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "CP5h",
+      "x": -73.3012,
+      "y": -46.7917,
+      "z": 49.109,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "CPP5h",
+      "x": -68.1152,
+      "y": -62.9747,
+      "z": 47.252,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "P5h",
+      "x": -61.7283,
+      "y": -77.6238,
+      "z": 43.028,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    
+    
+    {
+      "name": "C5",
+      "x": -80.2801,
+      "y": -13.7597,
+      "z": 29.16,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    {
+      "name": "CCP5",
+      "x": -81.5431,
+      "y": -30.1727,
+      "z": 30.273,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    
+    {
+      "name": "CP5",
+      "x": -79.5922,
+      "y": -46.5507,
+      "z": 30.949,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    {
+      "name": "CPP5",
+      "x": -73.6642,
+      "y": -61.9227,
+      "z": 30.38,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "P5",
+      "x": -67.2723,
+      "y": -76.2907,
+      "z": 28.382,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    
+    
+    {
+      "name": "T7h",
+      "x": -82.9461,
+      "y": -14.8827,
+      "z": 10.009,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "TTP7h",
+      "x": -85.5651,
+      "y": -30.6287,
+      "z": 11.153,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "TP7h",
+      "x": -82.7042,
+      "y": -46.2977,
+      "z": 11.974,
+      "colorValue": 4.42,
+      "sizeValue": 1
+    },
+    {
+      "name": "TPP7h",
+      "x": -76.6802,
+      "y": -60.8317,
+      "z": 12.88,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "P7h",
+      "x": -70.1133,
+      "y": -74.8677,
+      "z": 12.999,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    
+    
+    
+    {
+      "name": "FTT7",
+      "x": -82.668,
+      "y": -0.9417,
+      "z": -10.284,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "T7",
+      "x": -84.1611,
+      "y": -16.0187,
+      "z": -9.346,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    {
+      "name": "TTP7",
+      "x": -85.9331,
+      "y": -31.0927,
+      "z": -8.474,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "TP7",
+      "x": -84.8302,
+      "y": -46.0217,
+      "z": -7.056,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    {
+      "name": "TPP7",
+      "x": -78.5992,
+      "y": -59.7237,
+      "z": -4.758,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "P7",
+      "x": -72.4343,
+      "y": -73.4527,
+      "z": -2.487,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    {
+      "name": "T9h",
+      "x": -85.1321,
+      "y": -17.0557,
+      "z": -28.731,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "TTP9h",
+      "x": -86.9731,
+      "y": -32.2157,
+      "z": -27.848,
+      "colorValue": 1,
+      "sizeValue": 1
+    }
+  ]
+}
