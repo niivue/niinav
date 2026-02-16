@@ -10,16 +10,12 @@
   </head>
   <body>
     <header>
-      <label for="meshLevel">Double Click</label>
-      <select id="meshLevel" disabled>
-        <option>Move Fiducials</option>
-        <option>Move Stimulation Site</option>
-      </select>
-      <button id="saveButton">Save</button>
-      <label for="clipCheck">Clip Plane</label>
-      <input type="checkbox" id="clipCheck" unchecked />
-      <button id="aboutButton">About</button>
-      <div id="loadingCircle" class="loading-circle hidden"></div>
+      <label for="shaderSelect" visibility: hidden>Shader</label>
+      <select id="shaderSelect" visibility: hidden></select>
+      &nbsp;
+      <button id="openBtn">Open</button>
+      &nbsp;
+      <button id="aboutBtn">About</button>
     </header>
     <main>
       <canvas id="gl"></canvas>
