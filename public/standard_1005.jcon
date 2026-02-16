@@ -2,52 +2,124 @@
   "name": "standard_1005",
   "nodeColormap": "redyell",
   "nodeMinColor": 0,
-  "nodeMaxColor": 3,
+  "nodeMaxColor": 3.14,
   "nodeScale": 3,
   "legendLineThickness": 0,
   "nodes": [
     {
-      "name": "C5h",
-      "x": -75.2941,
-      "y": -12.6397,
-      "z": 47.904,
+      "name": "F1",
+      "x": -27.4958,
+      "y": 56.9311,
+      "z": 60.342,
       "colorValue": 1,
       "sizeValue": 1
     },
     {
-      "name": "CCP5h",
-      "x": -76.4071,
-      "y": -29.7307,
-      "z": 49.217,
+      "name": "FC1",
+      "x": -34.0619,
+      "y": 26.0111,
+      "z": 79.987,
       "colorValue": 1,
       "sizeValue": 1
     },
     {
-      "name": "CP5h",
-      "x": -73.3012,
-      "y": -46.7917,
-      "z": 49.109,
+      "name": "C1",
+      "x": -36.158,
+      "y": -9.9839,
+      "z": 89.752,
       "colorValue": 1,
       "sizeValue": 1
     },
     {
-      "name": "CPP5h",
-      "x": -68.1152,
-      "y": -62.9747,
-      "z": 47.252,
+      "name": "CP1",
+      "x": -35.5131,
+      "y": -47.2919,
+      "z": 91.315,
       "colorValue": 1,
       "sizeValue": 1
     },
     {
-      "name": "P5h",
-      "x": -61.7283,
-      "y": -77.6238,
-      "z": 43.028,
+      "name": "P1",
+      "x": -28.6203,
+      "y": -80.5249,
+      "z": 75.436,
       "colorValue": 1,
       "sizeValue": 1
     },
-    
-    
+
+    {
+      "name": "AF3",
+      "x": -33.7007,
+      "y": 76.8371,
+      "z": 21.227,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "F3",
+      "x": -50.2438,
+      "y": 53.1112,
+      "z": 42.192,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "FC3",
+      "x": -60.1819,
+      "y": 22.7162,
+      "z": 55.544,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "C3",
+      "x": -65.3581,
+      "y": -11.6317,
+      "z": 64.358,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    {
+      "name": "CP3",
+      "x": -63.5562,
+      "y": -47.0088,
+      "z": 65.624,
+      "colorValue": 2.21,
+      "sizeValue": 1
+    },
+    {
+      "name": "P3",
+      "x": -53.0073,
+      "y": -78.7878,
+      "z": 55.94,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "PO3",
+      "x": -36.5114,
+      "y": -100.8529,
+      "z": 37.167,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+
+    {
+      "name": "F5",
+      "x": -64.4658,
+      "y": 48.0353,
+      "z": 16.921,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "FC5",
+      "x": -77.2149,
+      "y": 18.6433,
+      "z": 24.46,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
     {
       "name": "C5",
       "x": -80.2801,
@@ -57,28 +129,11 @@
       "sizeValue": 1
     },
     {
-      "name": "CCP5",
-      "x": -81.5431,
-      "y": -30.1727,
-      "z": 30.273,
-      "colorValue": 1,
-      "sizeValue": 1
-    },
-    
-    {
       "name": "CP5",
       "x": -79.5922,
       "y": -46.5507,
       "z": 30.949,
-      "colorValue": 2.21,
-      "sizeValue": 1
-    },
-    {
-      "name": "CPP5",
-      "x": -73.6642,
-      "y": -61.9227,
-      "z": 30.38,
-      "colorValue": 1,
+      "colorValue": 3.14,
       "sizeValue": 1
     },
     {
@@ -89,56 +144,28 @@
       "colorValue": 2.21,
       "sizeValue": 1
     },
-    
-    
+
     {
-      "name": "T7h",
-      "x": -82.9461,
-      "y": -14.8827,
-      "z": 10.009,
+      "name": "Fp1",
+      "x": -29.4367,
+      "y": 83.9171,
+      "z": -6.99,
       "colorValue": 1,
       "sizeValue": 1
     },
     {
-      "name": "TTP7h",
-      "x": -85.5651,
-      "y": -30.6287,
-      "z": 11.153,
+      "name": "AF7",
+      "x": -54.8397,
+      "y": 68.5722,
+      "z": -10.59,
       "colorValue": 1,
       "sizeValue": 1
     },
     {
-      "name": "TP7h",
-      "x": -82.7042,
-      "y": -46.2977,
-      "z": 11.974,
-      "colorValue": 4.42,
-      "sizeValue": 1
-    },
-    {
-      "name": "TPP7h",
-      "x": -76.6802,
-      "y": -60.8317,
-      "z": 12.88,
-      "colorValue": 1,
-      "sizeValue": 1
-    },
-    {
-      "name": "P7h",
-      "x": -70.1133,
-      "y": -74.8677,
-      "z": 12.999,
-      "colorValue": 1,
-      "sizeValue": 1
-    },
-    
-    
-    
-    {
-      "name": "FTT7",
-      "x": -82.668,
-      "y": -0.9417,
-      "z": -10.284,
+      "name": "F7",
+      "x": -70.2629,
+      "y": 42.4743,
+      "z": -11.42,
       "colorValue": 1,
       "sizeValue": 1
     },
@@ -151,27 +178,11 @@
       "sizeValue": 1
     },
     {
-      "name": "TTP7",
-      "x": -85.9331,
-      "y": -31.0927,
-      "z": -8.474,
-      "colorValue": 1,
-      "sizeValue": 1
-    },
-    {
       "name": "TP7",
       "x": -84.8302,
       "y": -46.0217,
       "z": -7.056,
       "colorValue": 2.21,
-      "sizeValue": 1
-    },
-    {
-      "name": "TPP7",
-      "x": -78.5992,
-      "y": -59.7237,
-      "z": -4.758,
-      "colorValue": 1,
       "sizeValue": 1
     },
     {
@@ -183,20 +194,54 @@
       "sizeValue": 1
     },
     {
-      "name": "T9h",
-      "x": -85.1321,
-      "y": -17.0557,
-      "z": -28.731,
+      "name": "PO7",
+      "x": -54.8404,
+      "y": -97.5279,
+      "z": 2.792,
       "colorValue": 1,
       "sizeValue": 1
     },
     {
-      "name": "TTP9h",
-      "x": -86.9731,
-      "y": -32.2157,
-      "z": -27.848,
+      "name": "O1",
+      "x": -29.4134,
+      "y": -112.449,
+      "z": 8.839,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+
+    {
+      "name": "F9",
+      "x": -70.1019,
+      "y": 41.6523,
+      "z": -49.952,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "FT9",
+      "x": -84.0759,
+      "y": 14.5673,
+      "z": -50.429,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "T9",
+      "x": -85.8941,
+      "y": -15.8287,
+      "z": -48.283,
+      "colorValue": 1,
+      "sizeValue": 1
+    },
+    {
+      "name": "P9",
+      "x": -73.0093,
+      "y": -73.7657,
+      "z": -40.998,
       "colorValue": 1,
       "sizeValue": 1
     }
+
   ]
 }

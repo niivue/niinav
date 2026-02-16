@@ -10,12 +10,16 @@
   </head>
   <body>
     <header>
-      <label for="shaderSelect" visibility: hidden>Shader</label>
-      <select id="shaderSelect" visibility: hidden></select>
-      &nbsp;
-      <button id="openBtn">Open</button>
-      &nbsp;
-      <button id="aboutBtn">About</button>
+      <button id="openScalpBtn">Scalp</button>
+      <button id="openBrainBtn">Brain</button>
+      <button id="openLesionBtn">Lesion</button>
+      <label for="renderMode">Show</label>
+      <select id="renderMode">
+        <option>Scalp</option>
+        <option>Scalp+Lesion</option>
+        <option>Brain</option>
+        <option selected>Brain+Lesion</option>
+      </select>
     </header>
     <main>
       <canvas id="gl"></canvas>
