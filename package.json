@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "@niivue/niimath": "^1.2.0",
-    "@niivue/niivue": "^0.67.0"
+    "@niivue/niivue": "^0.68.1"
   }
 }
